@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hello Jetpack Compose</string>
+    <string name="search_hero">Search Someone</string>
+
+    <!--Home-->
+    <string name="no_data">Not Found</string>
+    <string name="no_connection">Check your internet connection</string>
+
+    <!--Detail User-->
+    <string name="followers">%d Followers</string>
+    <string name="following">%d Following</string>
+    <string name="myname">Faiz Najmuddin</string>
+    <string name="myemail">faiznajmuddin123@gmail.com</string>
+
+    <!--Favorite-->
+
+
+    <!--Content Desc-->
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="about">About Page</string>
+    <string name="back">Back</string>
+    <string name="clear_query">Clear query</string>
+    <string name="favorite">Favorite</string>
+    <string name="a11y_user_item_image">Picture Of Person</string>
+</resources>
